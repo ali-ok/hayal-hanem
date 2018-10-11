@@ -1,1 +1,7 @@
-my first git project
+"my first git project"
+
+Description
+
+# Description
+
+ 'This is an example site for the Intro to Front-End Web Development course at the Flatiron School'.
